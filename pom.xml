@@ -4,7 +4,6 @@
 	<artifactId>OpenEmrBDD</artifactId>
 	<version>1.0</version>
 	<dependencies>
-		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
@@ -31,6 +30,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependencies>
+	</dependencies>
 </project>
 	
